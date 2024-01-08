@@ -1,4 +1,4 @@
-import Quiz from "./components/Quiz/Quiz"
+import Quiz from "./components/quiz/Quiz"
 
 const App = () => {
   return (
