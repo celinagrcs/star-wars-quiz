@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree&family=Montserrat:wght@500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  /* height: 100vh; */
+  background:  url('src/assets/star-wars-backgrounds-25_bc15ec98.jpeg');
+}
+
+/* linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), */

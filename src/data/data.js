@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Which bounty hunter captured Han Solo in 'The Empire Strikes Back'?",
+      option1: "Boba Fett",
+      option2: "IG-88",
+      option3: "Dengar",
+      option4: "Bossk",
+      ans: 1,
+    },
+    {
+      question: "Who was the only non-Jedi in the original trilogy to wield a lightsaber?",
+      option1: "Leia Organa",
+      option2: "Chewbacca",
+      option3: "Lando Calrissian",
+      option4: "Han Solo",
+      ans: 4,
+    },
+    {
+      question: "What lightsaber color does Ahsoka Tano wield throughout most of her time in 'The Clone Wars'?",
+      option1: "White",
+      option2: "Yellow",
+      option3: "Green",
+      option4: "Blue",
+      ans: 1,
+    },
+    {
+      question: "In 'Revenge of the Sith' where does Obi-Wan confront Anakin Skywalker for their climactic duel?",
+      option1: "Coruscant",
+      option2: "Naboo",
+      option3: "Mustafar",
+      option4: "Tatooine",
+      ans: 3,
+    },
+    {
+      question: "In 'Return of the Jedi' who saves Luke Skywalker from the Emperor's Force lightning?",
+      option1: "Han Solo",
+      option2: "Darth Vader",
+      option3: "Lando Calrissian",
+      option4: "Leia Organa",
+      ans: 2,
+    },
+  ];
