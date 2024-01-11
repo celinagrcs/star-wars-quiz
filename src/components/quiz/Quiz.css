@@ -1,5 +1,6 @@
 body{
     background: url('/src/assets/star-wars-backgrounds-25_bc15ec98.jpeg');
+    height: 100vh;
 }
 
 .container{
