@@ -1,3 +1,3 @@
 # Star Wars Quiz
 
-star-wars-quiz-delta.vercel.app
+https://star-wars-quiz-delta.vercel.app/
