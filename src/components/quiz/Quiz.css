@@ -1,12 +1,12 @@
 body{
     background: url('/src/assets/star-wars-backgrounds-25_bc15ec98.jpeg');
-    height: 100vh;
 }
 
 .container{
     width: 640px;
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 40px;
     background: #f2f2f2;
     display: flex;
     flex-direction: column;
